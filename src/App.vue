@@ -1,5 +1,5 @@
 <script setup>
-document.title = 'H&I'
+  document.title = 'H&I'
 </script>
 
 <template>
